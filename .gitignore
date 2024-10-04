@@ -1,1 +1,4 @@
 *.vscode
+*.vs
+*a.exe
+*CppProperties.json
